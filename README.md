@@ -9,7 +9,7 @@ The input text file will contain a four-letter word, a second four-letter word, 
 
 Input file:
 
-SEND
-MORE
+SEND\n
+MORE\n
 MONEY
 
